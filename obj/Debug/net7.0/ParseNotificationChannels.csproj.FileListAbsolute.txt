@@ -1,0 +1,15 @@
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\obj\Debug\net7.0\ParseNotificationChannels.GeneratedMSBuildEditorConfig.editorconfig
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\obj\Debug\net7.0\ParseNotificationChannels.AssemblyInfoInputs.cache
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\obj\Debug\net7.0\ParseNotificationChannels.AssemblyInfo.cs
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\obj\Debug\net7.0\ParseNotificationChannels.csproj.CoreCompileInputs.cache
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\bin\Debug\net7.0\ParseNotificationChannels.exe
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\bin\Debug\net7.0\ParseNotificationChannels.deps.json
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\bin\Debug\net7.0\ParseNotificationChannels.runtimeconfig.json
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\bin\Debug\net7.0\ParseNotificationChannels.dll
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\bin\Debug\net7.0\ParseNotificationChannels.pdb
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\obj\Debug\net7.0\ParseNotificationChannels.dll
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\obj\Debug\net7.0\refint\ParseNotificationChannels.dll
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\obj\Debug\net7.0\ParseNotificationChannels.pdb
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\obj\Debug\net7.0\ParseNotificationChannels.genruntimeconfig.cache
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\obj\Debug\net7.0\ref\ParseNotificationChannels.dll
+D:\PERSONAL\.NET_PROJECT\ParseNotificationChannels\obj\Debug\net7.0\ParseNotificationChannels.sourcelink.json
