@@ -19,7 +19,7 @@ namespace ParseNotificationChannels
             foreach (var title in inputTitles)
             {
                 List<string> channels = ParseNotificationChannels(title);
-                Console.WriteLine($"Case : "\{cases}\"");
+                Console.WriteLine($"Case : \"{cases}\"");
                 Console.WriteLine($"Input: \"{title}\"");
                 Console.WriteLine($"Output: Receive channels: {string.Join(", ", channels)}\n");
                 cases = cases + 1;
